@@ -74,11 +74,12 @@ Each percentage below is the share of people lost between two steps.
 
 ```
 cart-abandonment-analysis/
-    data/          raw and cleaned datasets
-    notebooks/     Python notebooks for ETL and EDA
-    sql/           MySQL scripts and analysis queries
-    powerbi/       Power BI (.pbix) dashboard
-    reports/       final report
+    data/         raw and cleaned datasets
+    python/       Python notebooks for ETL and EDA
+    sql query/          MySQL scripts and analysis queries
+    Dashboard/    Dashboard Pictures
+    powerbi/      Power BI (.pbix) dashboard
+    report/      final report
     README.md
 ```
 
